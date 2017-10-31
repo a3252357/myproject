@@ -1,0 +1,277 @@
+2017-10-30 10:38:52,364 INFO (StartupInfoLogger.java:48)- Starting Example on hanhaishao-PC with PID 10360 (D:\maventest\target\classes started by hanhaishao in D:\maventest)
+2017-10-30 10:38:52,372 DEBUG (StartupInfoLogger.java:51)- Running with Spring Boot v1.5.0.RELEASE, Spring v4.3.6.RELEASE
+2017-10-30 10:38:52,373 INFO (SpringApplication.java:637)- No active profile set, falling back to default profiles: default
+2017-10-30 10:39:28,367 INFO (StartupInfoLogger.java:48)- Starting Example on hanhaishao-PC with PID 6500 (D:\maventest\target\classes started by hanhaishao in D:\maventest)
+2017-10-30 10:39:28,369 DEBUG (StartupInfoLogger.java:51)- Running with Spring Boot v1.5.0.RELEASE, Spring v4.3.6.RELEASE
+2017-10-30 10:39:28,369 INFO (SpringApplication.java:637)- No active profile set, falling back to default profiles: default
+2017-10-30 10:39:31,101 INFO (StartupInfoLogger.java:57)- Started Example in 3.058 seconds (JVM running for 3.688)
+2017-10-30 10:41:43,295 INFO (StartupInfoLogger.java:48)- Starting Example on hanhaishao-PC with PID 10996 (D:\maventest\target\classes started by hanhaishao in D:\maventest)
+2017-10-30 10:41:43,297 DEBUG (StartupInfoLogger.java:51)- Running with Spring Boot v1.5.0.RELEASE, Spring v4.3.6.RELEASE
+2017-10-30 10:41:43,297 INFO (SpringApplication.java:637)- No active profile set, falling back to default profiles: default
+2017-10-30 10:41:45,472 INFO (StartupInfoLogger.java:57)- Started Example in 2.572 seconds (JVM running for 3.25)
+2017-10-30 10:49:30,070 INFO (StartupInfoLogger.java:48)- Starting Example on hanhaishao-PC with PID 9612 (D:\maventest\target\classes started by hanhaishao in D:\maventest)
+2017-10-30 10:49:30,072 DEBUG (StartupInfoLogger.java:51)- Running with Spring Boot v1.5.0.RELEASE, Spring v4.3.6.RELEASE
+2017-10-30 10:49:30,072 INFO (SpringApplication.java:637)- No active profile set, falling back to default profiles: default
+2017-10-30 10:49:32,215 INFO (StartupInfoLogger.java:57)- Started Example in 2.425 seconds (JVM running for 3.43)
+2017-10-30 10:50:44,230 INFO (StartupInfoLogger.java:48)- Starting Example on hanhaishao-PC with PID 11584 (D:\maventest\target\classes started by hanhaishao in D:\maventest)
+2017-10-30 10:50:44,232 DEBUG (StartupInfoLogger.java:51)- Running with Spring Boot v1.5.0.RELEASE, Spring v4.3.6.RELEASE
+2017-10-30 10:50:44,233 INFO (SpringApplication.java:637)- No active profile set, falling back to default profiles: default
+2017-10-30 10:50:46,436 INFO (StartupInfoLogger.java:57)- Started Example in 2.57 seconds (JVM running for 3.471)
+2017-10-30 10:53:57,216 INFO (StartupInfoLogger.java:48)- Starting Example on hanhaishao-PC with PID 11588 (D:\maventest\target\classes started by hanhaishao in D:\maventest)
+2017-10-30 10:53:57,219 DEBUG (StartupInfoLogger.java:51)- Running with Spring Boot v1.5.0.RELEASE, Spring v4.3.6.RELEASE
+2017-10-30 10:53:57,219 INFO (SpringApplication.java:637)- No active profile set, falling back to default profiles: default
+2017-10-30 10:53:59,309 INFO (StartupInfoLogger.java:57)- Started Example in 2.406 seconds (JVM running for 3.121)
+2017-10-30 10:54:36,187 INFO (StartupInfoLogger.java:48)- Starting Example on hanhaishao-PC with PID 8016 (D:\maventest\target\classes started by hanhaishao in D:\maventest)
+2017-10-30 10:54:36,189 DEBUG (StartupInfoLogger.java:51)- Running with Spring Boot v1.5.0.RELEASE, Spring v4.3.6.RELEASE
+2017-10-30 10:54:36,189 INFO (SpringApplication.java:637)- No active profile set, falling back to default profiles: default
+2017-10-30 10:54:38,291 INFO (StartupInfoLogger.java:57)- Started Example in 2.377 seconds (JVM running for 3.038)
+2017-10-30 10:56:42,837 INFO (StartupInfoLogger.java:48)- Starting Example on hanhaishao-PC with PID 10972 (D:\maventest\target\classes started by hanhaishao in D:\maventest)
+2017-10-30 10:56:42,839 DEBUG (StartupInfoLogger.java:51)- Running with Spring Boot v1.5.0.RELEASE, Spring v4.3.6.RELEASE
+2017-10-30 10:56:42,839 INFO (SpringApplication.java:637)- No active profile set, falling back to default profiles: default
+2017-10-30 10:56:45,720 INFO (StartupInfoLogger.java:57)- Started Example in 3.041 seconds (JVM running for 3.942)
+2017-10-30 10:57:14,534 INFO (StartupInfoLogger.java:48)- Starting Example on hanhaishao-PC with PID 10132 (D:\maventest\target\classes started by hanhaishao in D:\maventest)
+2017-10-30 10:57:14,536 DEBUG (StartupInfoLogger.java:51)- Running with Spring Boot v1.5.0.RELEASE, Spring v4.3.6.RELEASE
+2017-10-30 10:57:14,536 INFO (SpringApplication.java:637)- No active profile set, falling back to default profiles: default
+2017-10-30 10:57:16,698 INFO (StartupInfoLogger.java:57)- Started Example in 2.368 seconds (JVM running for 2.967)
+2017-10-30 10:57:48,768 INFO (StartupInfoLogger.java:48)- Starting Example on hanhaishao-PC with PID 928 (D:\maventest\target\classes started by hanhaishao in D:\maventest)
+2017-10-30 10:57:48,770 DEBUG (StartupInfoLogger.java:51)- Running with Spring Boot v1.5.0.RELEASE, Spring v4.3.6.RELEASE
+2017-10-30 10:57:48,770 INFO (SpringApplication.java:637)- No active profile set, falling back to default profiles: default
+2017-10-30 10:57:50,926 INFO (StartupInfoLogger.java:57)- Started Example in 2.369 seconds (JVM running for 3.02)
+2017-10-30 11:00:05,666 INFO (StartupInfoLogger.java:48)- Starting Example on hanhaishao-PC with PID 12216 (D:\maventest\target\classes started by hanhaishao in D:\maventest)
+2017-10-30 11:00:05,668 DEBUG (StartupInfoLogger.java:51)- Running with Spring Boot v1.5.0.RELEASE, Spring v4.3.6.RELEASE
+2017-10-30 11:00:05,668 INFO (SpringApplication.java:637)- No active profile set, falling back to default profiles: default
+2017-10-30 11:00:07,880 INFO (StartupInfoLogger.java:57)- Started Example in 2.506 seconds (JVM running for 3.415)
+2017-10-30 11:01:49,818 INFO (StartupInfoLogger.java:48)- Starting Example on hanhaishao-PC with PID 11928 (D:\maventest\target\classes started by hanhaishao in D:\maventest)
+2017-10-30 11:01:49,839 DEBUG (StartupInfoLogger.java:51)- Running with Spring Boot v1.5.0.RELEASE, Spring v4.3.6.RELEASE
+2017-10-30 11:01:49,840 INFO (SpringApplication.java:637)- No active profile set, falling back to default profiles: default
+2017-10-30 11:01:52,145 INFO (StartupInfoLogger.java:57)- Started Example in 2.647 seconds (JVM running for 3.403)
+2017-10-30 11:06:03,955 INFO (StartupInfoLogger.java:48)- Starting Example on hanhaishao-PC with PID 10984 (D:\maventest\target\classes started by hanhaishao in D:\maventest)
+2017-10-30 11:06:03,959 DEBUG (StartupInfoLogger.java:51)- Running with Spring Boot v1.5.0.RELEASE, Spring v4.3.6.RELEASE
+2017-10-30 11:06:03,959 INFO (SpringApplication.java:637)- No active profile set, falling back to default profiles: default
+2017-10-30 11:06:06,158 INFO (StartupInfoLogger.java:57)- Started Example in 2.441 seconds (JVM running for 3.294)
+2017-10-30 11:10:04,647 INFO (StartupInfoLogger.java:48)- Starting Example on hanhaishao-PC with PID 9276 (D:\maventest\target\classes started by hanhaishao in D:\maventest)
+2017-10-30 11:10:04,649 DEBUG (StartupInfoLogger.java:51)- Running with Spring Boot v1.5.0.RELEASE, Spring v4.3.6.RELEASE
+2017-10-30 11:10:04,650 INFO (SpringApplication.java:637)- No active profile set, falling back to default profiles: default
+2017-10-30 11:10:06,702 INFO (StartupInfoLogger.java:57)- Started Example in 2.343 seconds (JVM running for 3.27)
+2017-10-30 11:10:35,594 INFO (StartupInfoLogger.java:48)- Starting Example on hanhaishao-PC with PID 7092 (D:\maventest\target\classes started by hanhaishao in D:\maventest)
+2017-10-30 11:10:35,596 DEBUG (StartupInfoLogger.java:51)- Running with Spring Boot v1.5.0.RELEASE, Spring v4.3.6.RELEASE
+2017-10-30 11:10:35,596 INFO (SpringApplication.java:637)- No active profile set, falling back to default profiles: default
+2017-10-30 11:10:37,757 INFO (StartupInfoLogger.java:57)- Started Example in 2.412 seconds (JVM running for 3.283)
+2017-10-30 11:13:49,972 INFO (StartupInfoLogger.java:48)- Starting Example on hanhaishao-PC with PID 11568 (D:\maventest\target\classes started by hanhaishao in D:\maventest)
+2017-10-30 11:13:49,979 DEBUG (StartupInfoLogger.java:51)- Running with Spring Boot v1.5.0.RELEASE, Spring v4.3.6.RELEASE
+2017-10-30 11:13:49,979 INFO (SpringApplication.java:637)- No active profile set, falling back to default profiles: default
+2017-10-30 11:13:52,190 INFO (StartupInfoLogger.java:57)- Started Example in 2.377 seconds (JVM running for 2.997)
+2017-10-30 11:14:14,739 INFO (StartupInfoLogger.java:48)- Starting Example on hanhaishao-PC with PID 10024 (D:\maventest\target\classes started by hanhaishao in D:\maventest)
+2017-10-30 11:14:14,741 DEBUG (StartupInfoLogger.java:51)- Running with Spring Boot v1.5.0.RELEASE, Spring v4.3.6.RELEASE
+2017-10-30 11:14:14,742 INFO (SpringApplication.java:637)- No active profile set, falling back to default profiles: default
+2017-10-30 11:14:16,953 INFO (StartupInfoLogger.java:57)- Started Example in 2.457 seconds (JVM running for 3.315)
+2017-10-30 11:17:54,175 INFO (StartupInfoLogger.java:48)- Starting Example on hanhaishao-PC with PID 11340 (D:\maventest\target\classes started by hanhaishao in D:\maventest)
+2017-10-30 11:17:54,191 DEBUG (StartupInfoLogger.java:51)- Running with Spring Boot v1.5.0.RELEASE, Spring v4.3.6.RELEASE
+2017-10-30 11:17:54,191 INFO (SpringApplication.java:637)- No active profile set, falling back to default profiles: default
+2017-10-30 11:17:56,342 INFO (StartupInfoLogger.java:57)- Started Example in 2.534 seconds (JVM running for 3.475)
+2017-10-30 11:19:54,689 INFO (StartupInfoLogger.java:48)- Starting Example on hanhaishao-PC with PID 10136 (D:\maventest\target\classes started by hanhaishao in D:\maventest)
+2017-10-30 11:19:54,711 DEBUG (StartupInfoLogger.java:51)- Running with Spring Boot v1.5.0.RELEASE, Spring v4.3.6.RELEASE
+2017-10-30 11:19:54,714 INFO (SpringApplication.java:637)- No active profile set, falling back to default profiles: default
+2017-10-30 11:19:56,921 INFO (StartupInfoLogger.java:57)- Started Example in 2.439 seconds (JVM running for 3.189)
+2017-10-30 11:21:13,804 INFO (StartupInfoLogger.java:48)- Starting Example on hanhaishao-PC with PID 10812 (D:\maventest\target\classes started by hanhaishao in D:\maventest)
+2017-10-30 11:21:13,806 DEBUG (StartupInfoLogger.java:51)- Running with Spring Boot v1.5.0.RELEASE, Spring v4.3.6.RELEASE
+2017-10-30 11:21:13,806 INFO (SpringApplication.java:637)- No active profile set, falling back to default profiles: default
+2017-10-30 11:21:16,020 INFO (StartupInfoLogger.java:57)- Started Example in 2.423 seconds (JVM running for 3.639)
+2017-10-30 11:21:38,496 INFO (StartupInfoLogger.java:48)- Starting Example on hanhaishao-PC with PID 11244 (D:\maventest\target\classes started by hanhaishao in D:\maventest)
+2017-10-30 11:21:38,497 DEBUG (StartupInfoLogger.java:51)- Running with Spring Boot v1.5.0.RELEASE, Spring v4.3.6.RELEASE
+2017-10-30 11:21:38,498 INFO (SpringApplication.java:637)- No active profile set, falling back to default profiles: default
+2017-10-30 11:21:40,682 INFO (StartupInfoLogger.java:57)- Started Example in 2.492 seconds (JVM running for 3.255)
+2017-10-30 11:26:20,428 INFO (StartupInfoLogger.java:48)- Starting Example on hanhaishao-PC with PID 6276 (D:\maventest\target\classes started by hanhaishao in D:\maventest)
+2017-10-30 11:26:20,429 DEBUG (StartupInfoLogger.java:51)- Running with Spring Boot v1.5.0.RELEASE, Spring v4.3.6.RELEASE
+2017-10-30 11:26:20,430 INFO (SpringApplication.java:637)- No active profile set, falling back to default profiles: default
+2017-10-30 11:26:22,632 INFO (StartupInfoLogger.java:57)- Started Example in 2.357 seconds (JVM running for 2.991)
+2017-10-30 11:29:08,633 INFO (StartupInfoLogger.java:48)- Starting Example on hanhaishao-PC with PID 11324 (D:\maventest\target\classes started by hanhaishao in D:\maventest)
+2017-10-30 11:29:08,648 DEBUG (StartupInfoLogger.java:51)- Running with Spring Boot v1.5.0.RELEASE, Spring v4.3.6.RELEASE
+2017-10-30 11:29:08,648 INFO (SpringApplication.java:637)- No active profile set, falling back to default profiles: default
+2017-10-30 11:29:10,943 INFO (StartupInfoLogger.java:57)- Started Example in 2.632 seconds (JVM running for 3.377)
+2017-10-30 11:30:08,523 INFO (StartupInfoLogger.java:48)- Starting Example on hanhaishao-PC with PID 12212 (D:\maventest\target\classes started by hanhaishao in D:\maventest)
+2017-10-30 11:30:08,526 DEBUG (StartupInfoLogger.java:51)- Running with Spring Boot v1.5.0.RELEASE, Spring v4.3.6.RELEASE
+2017-10-30 11:30:08,526 INFO (SpringApplication.java:637)- No active profile set, falling back to default profiles: default
+2017-10-30 11:30:10,712 INFO (StartupInfoLogger.java:57)- Started Example in 2.381 seconds (JVM running for 3.031)
+2017-10-30 11:30:28,427 INFO (StartupInfoLogger.java:48)- Starting Example on hanhaishao-PC with PID 5848 (D:\maventest\target\classes started by hanhaishao in D:\maventest)
+2017-10-30 11:30:28,428 DEBUG (StartupInfoLogger.java:51)- Running with Spring Boot v1.5.0.RELEASE, Spring v4.3.6.RELEASE
+2017-10-30 11:30:28,429 INFO (SpringApplication.java:637)- No active profile set, falling back to default profiles: default
+2017-10-30 11:30:30,620 INFO (StartupInfoLogger.java:57)- Started Example in 2.415 seconds (JVM running for 3.193)
+2017-10-30 11:34:23,670 INFO (StartupInfoLogger.java:48)- Starting Example on hanhaishao-PC with PID 3748 (D:\maventest\target\classes started by hanhaishao in D:\maventest)
+2017-10-30 11:34:23,676 DEBUG (StartupInfoLogger.java:51)- Running with Spring Boot v1.5.0.RELEASE, Spring v4.3.6.RELEASE
+2017-10-30 11:34:23,676 INFO (SpringApplication.java:637)- No active profile set, falling back to default profiles: default
+2017-10-30 11:34:26,144 INFO (StartupInfoLogger.java:57)- Started Example in 2.646 seconds (JVM running for 3.393)
+2017-10-30 11:35:02,643 INFO (StartupInfoLogger.java:48)- Starting Example on hanhaishao-PC with PID 6020 (D:\maventest\target\classes started by hanhaishao in D:\maventest)
+2017-10-30 11:35:02,645 DEBUG (StartupInfoLogger.java:51)- Running with Spring Boot v1.5.0.RELEASE, Spring v4.3.6.RELEASE
+2017-10-30 11:35:02,646 INFO (SpringApplication.java:637)- No active profile set, falling back to default profiles: default
+2017-10-30 11:35:04,793 INFO (StartupInfoLogger.java:57)- Started Example in 2.362 seconds (JVM running for 2.942)
+2017-10-30 11:35:26,443 INFO (StartupInfoLogger.java:48)- Starting Example on hanhaishao-PC with PID 4740 (D:\maventest\target\classes started by hanhaishao in D:\maventest)
+2017-10-30 11:35:26,480 DEBUG (StartupInfoLogger.java:51)- Running with Spring Boot v1.5.0.RELEASE, Spring v4.3.6.RELEASE
+2017-10-30 11:35:26,480 INFO (SpringApplication.java:637)- No active profile set, falling back to default profiles: default
+2017-10-30 11:35:28,565 INFO (StartupInfoLogger.java:57)- Started Example in 2.404 seconds (JVM running for 3.443)
+2017-10-30 11:36:14,404 INFO (StartupInfoLogger.java:48)- Starting Example on hanhaishao-PC with PID 5400 (D:\maventest\target\classes started by hanhaishao in D:\maventest)
+2017-10-30 11:36:14,422 DEBUG (StartupInfoLogger.java:51)- Running with Spring Boot v1.5.0.RELEASE, Spring v4.3.6.RELEASE
+2017-10-30 11:36:14,422 INFO (SpringApplication.java:637)- No active profile set, falling back to default profiles: default
+2017-10-30 11:36:16,583 INFO (StartupInfoLogger.java:57)- Started Example in 2.378 seconds (JVM running for 3.066)
+2017-10-30 11:36:55,006 INFO (StartupInfoLogger.java:48)- Starting Example on hanhaishao-PC with PID 4372 (D:\maventest\target\classes started by hanhaishao in D:\maventest)
+2017-10-30 11:36:55,048 DEBUG (StartupInfoLogger.java:51)- Running with Spring Boot v1.5.0.RELEASE, Spring v4.3.6.RELEASE
+2017-10-30 11:36:55,049 INFO (SpringApplication.java:637)- No active profile set, falling back to default profiles: default
+2017-10-30 11:36:57,209 INFO (StartupInfoLogger.java:57)- Started Example in 2.388 seconds (JVM running for 3.036)
+2017-10-30 11:38:36,931 INFO (StartupInfoLogger.java:48)- Starting Example on hanhaishao-PC with PID 10364 (D:\maventest\target\classes started by hanhaishao in D:\maventest)
+2017-10-30 11:38:36,933 DEBUG (StartupInfoLogger.java:51)- Running with Spring Boot v1.5.0.RELEASE, Spring v4.3.6.RELEASE
+2017-10-30 11:38:36,933 INFO (SpringApplication.java:637)- No active profile set, falling back to default profiles: default
+2017-10-30 11:38:39,240 INFO (StartupInfoLogger.java:57)- Started Example in 2.57 seconds (JVM running for 3.326)
+2017-10-30 11:39:11,966 INFO (StartupInfoLogger.java:48)- Starting Example on hanhaishao-PC with PID 8132 (D:\maventest\target\classes started by hanhaishao in D:\maventest)
+2017-10-30 11:39:11,996 DEBUG (StartupInfoLogger.java:51)- Running with Spring Boot v1.5.0.RELEASE, Spring v4.3.6.RELEASE
+2017-10-30 11:39:11,997 INFO (SpringApplication.java:637)- No active profile set, falling back to default profiles: default
+2017-10-30 11:39:14,190 INFO (StartupInfoLogger.java:57)- Started Example in 2.447 seconds (JVM running for 3.504)
+2017-10-30 11:42:23,002 INFO (StartupInfoLogger.java:48)- Starting Example on hanhaishao-PC with PID 11808 (D:\maventest\target\classes started by hanhaishao in D:\maventest)
+2017-10-30 11:42:23,004 DEBUG (StartupInfoLogger.java:51)- Running with Spring Boot v1.5.0.RELEASE, Spring v4.3.6.RELEASE
+2017-10-30 11:42:23,004 INFO (SpringApplication.java:637)- No active profile set, falling back to default profiles: default
+2017-10-30 11:42:25,310 INFO (StartupInfoLogger.java:57)- Started Example in 2.476 seconds (JVM running for 3.085)
+2017-10-30 11:44:20,666 INFO (StartupInfoLogger.java:48)- Starting Example on hanhaishao-PC with PID 10256 (D:\maventest\target\classes started by hanhaishao in D:\maventest)
+2017-10-30 11:44:20,668 DEBUG (StartupInfoLogger.java:51)- Running with Spring Boot v1.5.0.RELEASE, Spring v4.3.6.RELEASE
+2017-10-30 11:44:20,668 INFO (SpringApplication.java:637)- No active profile set, falling back to default profiles: default
+2017-10-30 11:44:22,883 INFO (StartupInfoLogger.java:57)- Started Example in 2.436 seconds (JVM running for 3.104)
+2017-10-30 11:45:14,765 INFO (StartupInfoLogger.java:48)- Starting Example on hanhaishao-PC with PID 5616 (D:\maventest\target\classes started by hanhaishao in D:\maventest)
+2017-10-30 11:45:14,769 DEBUG (StartupInfoLogger.java:51)- Running with Spring Boot v1.5.0.RELEASE, Spring v4.3.6.RELEASE
+2017-10-30 11:45:14,815 INFO (SpringApplication.java:637)- No active profile set, falling back to default profiles: default
+2017-10-30 11:45:16,954 INFO (StartupInfoLogger.java:57)- Started Example in 2.377 seconds (JVM running for 3.011)
+2017-10-30 11:48:19,636 INFO (StartupInfoLogger.java:48)- Starting Example on hanhaishao-PC with PID 11880 (D:\maventest\target\classes started by hanhaishao in D:\maventest)
+2017-10-30 11:48:19,655 DEBUG (StartupInfoLogger.java:51)- Running with Spring Boot v1.5.0.RELEASE, Spring v4.3.6.RELEASE
+2017-10-30 11:48:19,656 INFO (SpringApplication.java:637)- No active profile set, falling back to default profiles: default
+2017-10-30 11:48:21,848 INFO (StartupInfoLogger.java:57)- Started Example in 2.386 seconds (JVM running for 3.057)
+2017-10-30 11:49:20,226 INFO (StartupInfoLogger.java:48)- Starting Example on hanhaishao-PC with PID 12148 (D:\maventest\target\classes started by hanhaishao in D:\maventest)
+2017-10-30 11:49:20,236 DEBUG (StartupInfoLogger.java:51)- Running with Spring Boot v1.5.0.RELEASE, Spring v4.3.6.RELEASE
+2017-10-30 11:49:20,237 INFO (SpringApplication.java:637)- No active profile set, falling back to default profiles: default
+2017-10-30 11:49:22,218 INFO (StartupInfoLogger.java:57)- Started Example in 2.312 seconds (JVM running for 3.141)
+2017-10-30 11:50:57,208 INFO (StartupInfoLogger.java:48)- Starting Example on hanhaishao-PC with PID 11540 (D:\maventest\target\classes started by hanhaishao in D:\maventest)
+2017-10-30 11:50:57,210 DEBUG (StartupInfoLogger.java:51)- Running with Spring Boot v1.5.0.RELEASE, Spring v4.3.6.RELEASE
+2017-10-30 11:50:57,210 INFO (SpringApplication.java:637)- No active profile set, falling back to default profiles: default
+2017-10-30 11:50:59,181 INFO (StartupInfoLogger.java:57)- Started Example in 2.233 seconds (JVM running for 3.223)
+2017-10-30 11:53:59,989 INFO (StartupInfoLogger.java:48)- Starting Example on hanhaishao-PC with PID 11700 (D:\maventest\target\classes started by hanhaishao in D:\maventest)
+2017-10-30 11:53:59,991 DEBUG (StartupInfoLogger.java:51)- Running with Spring Boot v1.5.0.RELEASE, Spring v4.3.6.RELEASE
+2017-10-30 11:53:59,993 INFO (SpringApplication.java:637)- No active profile set, falling back to default profiles: default
+2017-10-30 11:54:02,173 INFO (StartupInfoLogger.java:57)- Started Example in 2.403 seconds (JVM running for 3.018)
+2017-10-30 12:32:47,645 INFO (StartupInfoLogger.java:48)- Starting Example on hanhaishao-PC with PID 2608 (D:\maventest\target\classes started by hanhaishao in D:\maventest)
+2017-10-30 12:32:47,647 DEBUG (StartupInfoLogger.java:51)- Running with Spring Boot v1.5.0.RELEASE, Spring v4.3.6.RELEASE
+2017-10-30 12:32:47,648 INFO (SpringApplication.java:637)- No active profile set, falling back to default profiles: default
+2017-10-30 12:32:50,271 INFO (StartupInfoLogger.java:57)- Started Example in 2.967 seconds (JVM running for 4.741)
+2017-10-30 12:33:22,597 INFO (StartupInfoLogger.java:48)- Starting Example on hanhaishao-PC with PID 4964 (D:\maventest\target\classes started by hanhaishao in D:\maventest)
+2017-10-30 12:33:22,600 DEBUG (StartupInfoLogger.java:51)- Running with Spring Boot v1.5.0.RELEASE, Spring v4.3.6.RELEASE
+2017-10-30 12:33:22,600 INFO (SpringApplication.java:637)- No active profile set, falling back to default profiles: default
+2017-10-30 12:33:24,848 INFO (StartupInfoLogger.java:57)- Started Example in 2.526 seconds (JVM running for 3.551)
+2017-10-30 12:34:06,985 INFO (StartupInfoLogger.java:48)- Starting Example on hanhaishao-PC with PID 10412 (D:\maventest\target\classes started by hanhaishao in D:\maventest)
+2017-10-30 12:34:06,990 DEBUG (StartupInfoLogger.java:51)- Running with Spring Boot v1.5.0.RELEASE, Spring v4.3.6.RELEASE
+2017-10-30 12:34:06,990 INFO (SpringApplication.java:637)- No active profile set, falling back to default profiles: default
+2017-10-30 12:34:09,102 INFO (StartupInfoLogger.java:57)- Started Example in 2.365 seconds (JVM running for 3.371)
+2017-10-30 12:35:00,496 INFO (StartupInfoLogger.java:48)- Starting Example on hanhaishao-PC with PID 11172 (D:\maventest\target\classes started by hanhaishao in D:\maventest)
+2017-10-30 12:35:00,498 DEBUG (StartupInfoLogger.java:51)- Running with Spring Boot v1.5.0.RELEASE, Spring v4.3.6.RELEASE
+2017-10-30 12:35:00,498 INFO (SpringApplication.java:637)- No active profile set, falling back to default profiles: default
+2017-10-30 12:35:02,705 INFO (StartupInfoLogger.java:57)- Started Example in 2.577 seconds (JVM running for 3.456)
+2017-10-30 12:35:42,575 INFO (StartupInfoLogger.java:48)- Starting Example on hanhaishao-PC with PID 12204 (D:\maventest\target\classes started by hanhaishao in D:\maventest)
+2017-10-30 12:35:42,577 DEBUG (StartupInfoLogger.java:51)- Running with Spring Boot v1.5.0.RELEASE, Spring v4.3.6.RELEASE
+2017-10-30 12:35:42,577 INFO (SpringApplication.java:637)- No active profile set, falling back to default profiles: default
+2017-10-30 12:35:44,817 INFO (StartupInfoLogger.java:57)- Started Example in 2.477 seconds (JVM running for 3.402)
+2017-10-30 12:36:53,654 INFO (StartupInfoLogger.java:48)- Starting Example on hanhaishao-PC with PID 9612 (D:\maventest\target\classes started by hanhaishao in D:\maventest)
+2017-10-30 12:36:53,658 DEBUG (StartupInfoLogger.java:51)- Running with Spring Boot v1.5.0.RELEASE, Spring v4.3.6.RELEASE
+2017-10-30 12:36:53,659 INFO (SpringApplication.java:637)- No active profile set, falling back to default profiles: default
+2017-10-30 12:36:55,723 INFO (StartupInfoLogger.java:57)- Started Example in 2.396 seconds (JVM running for 3.508)
+2017-10-30 12:38:14,179 INFO (StartupInfoLogger.java:48)- Starting Example on hanhaishao-PC with PID 928 (D:\maventest\target\classes started by hanhaishao in D:\maventest)
+2017-10-30 12:38:14,181 DEBUG (StartupInfoLogger.java:51)- Running with Spring Boot v1.5.0.RELEASE, Spring v4.3.6.RELEASE
+2017-10-30 12:38:14,181 INFO (SpringApplication.java:637)- No active profile set, falling back to default profiles: default
+2017-10-30 12:38:16,341 INFO (StartupInfoLogger.java:57)- Started Example in 2.347 seconds (JVM running for 3.162)
+2017-10-30 12:38:55,739 INFO (StartupInfoLogger.java:48)- Starting Example on hanhaishao-PC with PID 4840 (D:\maventest\target\classes started by hanhaishao in D:\maventest)
+2017-10-30 12:38:55,742 DEBUG (StartupInfoLogger.java:51)- Running with Spring Boot v1.5.0.RELEASE, Spring v4.3.6.RELEASE
+2017-10-30 12:38:55,743 INFO (SpringApplication.java:637)- No active profile set, falling back to default profiles: default
+2017-10-30 12:38:57,920 INFO (StartupInfoLogger.java:57)- Started Example in 2.382 seconds (JVM running for 3.052)
+2017-10-30 12:39:36,676 INFO (StartupInfoLogger.java:48)- Starting Example on hanhaishao-PC with PID 11648 (D:\maventest\target\classes started by hanhaishao in D:\maventest)
+2017-10-30 12:39:36,678 DEBUG (StartupInfoLogger.java:51)- Running with Spring Boot v1.5.0.RELEASE, Spring v4.3.6.RELEASE
+2017-10-30 12:39:36,678 INFO (SpringApplication.java:637)- No active profile set, falling back to default profiles: default
+2017-10-30 12:39:38,782 INFO (StartupInfoLogger.java:57)- Started Example in 2.333 seconds (JVM running for 3.224)
+2017-10-30 12:40:44,033 INFO (StartupInfoLogger.java:48)- Starting Example on hanhaishao-PC with PID 8336 (D:\maventest\target\classes started by hanhaishao in D:\maventest)
+2017-10-30 12:40:44,036 DEBUG (StartupInfoLogger.java:51)- Running with Spring Boot v1.5.0.RELEASE, Spring v4.3.6.RELEASE
+2017-10-30 12:40:44,036 INFO (SpringApplication.java:637)- No active profile set, falling back to default profiles: default
+2017-10-30 12:40:46,220 INFO (StartupInfoLogger.java:57)- Started Example in 2.521 seconds (JVM running for 3.377)
+2017-10-30 12:42:16,557 INFO (StartupInfoLogger.java:48)- Starting Example on hanhaishao-PC with PID 10540 (D:\maventest\target\classes started by hanhaishao in D:\maventest)
+2017-10-30 12:42:16,582 DEBUG (StartupInfoLogger.java:51)- Running with Spring Boot v1.5.0.RELEASE, Spring v4.3.6.RELEASE
+2017-10-30 12:42:16,582 INFO (SpringApplication.java:637)- No active profile set, falling back to default profiles: default
+2017-10-30 12:42:18,672 INFO (StartupInfoLogger.java:57)- Started Example in 2.328 seconds (JVM running for 2.978)
+2017-10-30 12:42:38,781 DEBUG (Example.java:35)- 访问helloName,Name=game
+2017-10-30 12:45:36,963 INFO (StartupInfoLogger.java:48)- Starting Example on hanhaishao-PC with PID 10944 (D:\maventest\target\classes started by hanhaishao in D:\maventest)
+2017-10-30 12:45:37,069 DEBUG (StartupInfoLogger.java:51)- Running with Spring Boot v1.5.0.RELEASE, Spring v4.3.6.RELEASE
+2017-10-30 12:45:37,069 INFO (SpringApplication.java:637)- No active profile set, falling back to default profiles: default
+2017-10-30 12:45:39,165 INFO (StartupInfoLogger.java:57)- Started Example in 2.403 seconds (JVM running for 3.668)
+2017-10-30 13:28:45,674 INFO (StartupInfoLogger.java:48)- Starting Example on hanhaishao-PC with PID 12160 (D:\maventest\target\classes started by hanhaishao in D:\maventest)
+2017-10-30 13:28:45,686 DEBUG (StartupInfoLogger.java:51)- Running with Spring Boot v1.5.0.RELEASE, Spring v4.3.6.RELEASE
+2017-10-30 13:28:45,686 INFO (SpringApplication.java:637)- No active profile set, falling back to default profiles: default
+2017-10-30 13:28:47,929 INFO (StartupInfoLogger.java:57)- Started Example in 2.458 seconds (JVM running for 3.197)
+2017-10-30 13:29:03,954 DEBUG (Example.java:35)- 访问helloName,Name=game
+2017-10-30 13:30:32,211 INFO (StartupInfoLogger.java:48)- Starting Example on hanhaishao-PC with PID 4872 (D:\maventest\target\classes started by hanhaishao in D:\maventest)
+2017-10-30 13:30:32,225 DEBUG (StartupInfoLogger.java:51)- Running with Spring Boot v1.5.0.RELEASE, Spring v4.3.6.RELEASE
+2017-10-30 13:30:32,226 INFO (SpringApplication.java:637)- No active profile set, falling back to default profiles: default
+2017-10-30 13:30:34,288 INFO (StartupInfoLogger.java:57)- Started Example in 2.242 seconds (JVM running for 3.314)
+2017-10-30 13:32:55,214 INFO (StartupInfoLogger.java:48)- Starting Example on hanhaishao-PC with PID 8928 (D:\maventest\target\classes started by hanhaishao in D:\maventest)
+2017-10-30 13:32:55,216 DEBUG (StartupInfoLogger.java:51)- Running with Spring Boot v1.5.0.RELEASE, Spring v4.3.6.RELEASE
+2017-10-30 13:32:55,216 INFO (SpringApplication.java:637)- No active profile set, falling back to default profiles: default
+2017-10-30 13:32:57,401 INFO (StartupInfoLogger.java:57)- Started Example in 2.346 seconds (JVM running for 3.215)
+2017-10-30 13:34:23,552 INFO (StartupInfoLogger.java:48)- Starting Example on hanhaishao-PC with PID 5456 (D:\maventest\target\classes started by hanhaishao in D:\maventest)
+2017-10-30 13:34:23,554 DEBUG (StartupInfoLogger.java:51)- Running with Spring Boot v1.5.0.RELEASE, Spring v4.3.6.RELEASE
+2017-10-30 13:34:23,554 INFO (SpringApplication.java:637)- No active profile set, falling back to default profiles: default
+2017-10-30 13:34:25,595 INFO (StartupInfoLogger.java:57)- Started Example in 2.272 seconds (JVM running for 3.195)
+2017-10-30 16:53:10,022 INFO (StartupInfoLogger.java:48)- Starting Example on hanhaishao-PC with PID 7244 (D:\maventest\target\classes started by hanhaishao in D:\maventest)
+2017-10-30 16:53:10,040 DEBUG (StartupInfoLogger.java:51)- Running with Spring Boot v1.5.0.RELEASE, Spring v4.3.6.RELEASE
+2017-10-30 16:53:10,040 INFO (SpringApplication.java:637)- No active profile set, falling back to default profiles: default
+2017-10-30 16:53:12,406 INFO (StartupInfoLogger.java:57)- Started Example in 2.601 seconds (JVM running for 3.734)
+2017-10-30 16:55:47,115 INFO (StartupInfoLogger.java:48)- Starting Example on hanhaishao-PC with PID 7796 (D:\maventest\target\classes started by hanhaishao in D:\maventest)
+2017-10-30 16:55:47,116 DEBUG (StartupInfoLogger.java:51)- Running with Spring Boot v1.5.0.RELEASE, Spring v4.3.6.RELEASE
+2017-10-30 16:55:47,117 INFO (SpringApplication.java:637)- No active profile set, falling back to default profiles: default
+2017-10-30 16:55:49,222 INFO (StartupInfoLogger.java:57)- Started Example in 2.4 seconds (JVM running for 3.426)
+2017-10-30 16:58:03,072 INFO (StartupInfoLogger.java:48)- Starting Example on hanhaishao-PC with PID 7740 (D:\maventest\target\classes started by hanhaishao in D:\maventest)
+2017-10-30 16:58:03,075 DEBUG (StartupInfoLogger.java:51)- Running with Spring Boot v1.5.0.RELEASE, Spring v4.3.6.RELEASE
+2017-10-30 16:58:03,075 INFO (SpringApplication.java:637)- No active profile set, falling back to default profiles: default
+2017-10-30 16:58:05,216 INFO (StartupInfoLogger.java:57)- Started Example in 2.345 seconds (JVM running for 3.05)
+2017-10-30 16:58:16,821 INFO (StartupInfoLogger.java:48)- Starting Example on hanhaishao-PC with PID 9804 (D:\maventest\target\classes started by hanhaishao in D:\maventest)
+2017-10-30 16:58:16,823 DEBUG (StartupInfoLogger.java:51)- Running with Spring Boot v1.5.0.RELEASE, Spring v4.3.6.RELEASE
+2017-10-30 16:58:16,824 INFO (SpringApplication.java:637)- No active profile set, falling back to default profiles: default
+2017-10-30 16:58:18,975 INFO (StartupInfoLogger.java:57)- Started Example in 2.366 seconds (JVM running for 3.407)
+2017-10-30 16:58:56,292 INFO (StartupInfoLogger.java:48)- Starting Example on hanhaishao-PC with PID 6448 (D:\maventest\target\classes started by hanhaishao in D:\maventest)
+2017-10-30 16:58:56,339 DEBUG (StartupInfoLogger.java:51)- Running with Spring Boot v1.5.0.RELEASE, Spring v4.3.6.RELEASE
+2017-10-30 16:58:56,339 INFO (SpringApplication.java:637)- No active profile set, falling back to default profiles: default
+2017-10-30 16:58:58,470 INFO (StartupInfoLogger.java:57)- Started Example in 2.371 seconds (JVM running for 2.987)
+2017-10-30 16:59:37,434 INFO (StartupInfoLogger.java:48)- Starting Example on hanhaishao-PC with PID 9220 (D:\maventest\target\classes started by hanhaishao in D:\maventest)
+2017-10-30 16:59:37,436 DEBUG (StartupInfoLogger.java:51)- Running with Spring Boot v1.5.0.RELEASE, Spring v4.3.6.RELEASE
+2017-10-30 16:59:37,436 INFO (SpringApplication.java:637)- No active profile set, falling back to default profiles: default
+2017-10-30 16:59:39,527 INFO (StartupInfoLogger.java:57)- Started Example in 2.379 seconds (JVM running for 3.298)
+2017-10-30 17:01:05,095 INFO (StartupInfoLogger.java:48)- Starting Example on hanhaishao-PC with PID 3404 (D:\maventest\target\classes started by hanhaishao in D:\maventest)
+2017-10-30 17:01:05,097 DEBUG (StartupInfoLogger.java:51)- Running with Spring Boot v1.5.0.RELEASE, Spring v4.3.6.RELEASE
+2017-10-30 17:01:05,097 INFO (SpringApplication.java:637)- No active profile set, falling back to default profiles: default
+2017-10-30 17:01:07,125 INFO (StartupInfoLogger.java:57)- Started Example in 2.397 seconds (JVM running for 3.015)
+2017-10-30 17:02:50,972 INFO (StartupInfoLogger.java:48)- Starting Example on hanhaishao-PC with PID 10820 (D:\maventest\target\classes started by hanhaishao in D:\maventest)
+2017-10-30 17:02:50,974 DEBUG (StartupInfoLogger.java:51)- Running with Spring Boot v1.5.0.RELEASE, Spring v4.3.6.RELEASE
+2017-10-30 17:02:51,061 INFO (SpringApplication.java:637)- No active profile set, falling back to default profiles: default
+2017-10-30 17:02:53,201 INFO (StartupInfoLogger.java:57)- Started Example in 2.451 seconds (JVM running for 3.063)
+2017-10-30 17:05:32,350 INFO (StartupInfoLogger.java:48)- Starting Example on hanhaishao-PC with PID 2808 (D:\maventest\target\classes started by hanhaishao in D:\maventest)
+2017-10-30 17:05:32,353 DEBUG (StartupInfoLogger.java:51)- Running with Spring Boot v1.5.0.RELEASE, Spring v4.3.6.RELEASE
+2017-10-30 17:05:32,353 INFO (SpringApplication.java:637)- No active profile set, falling back to default profiles: default
+2017-10-30 17:05:34,600 INFO (StartupInfoLogger.java:57)- Started Example in 2.457 seconds (JVM running for 3.334)
+2017-10-30 17:07:46,795 INFO (StartupInfoLogger.java:48)- Starting Example on hanhaishao-PC with PID 9624 (D:\maventest\target\classes started by hanhaishao in D:\maventest)
+2017-10-30 17:07:46,796 DEBUG (StartupInfoLogger.java:51)- Running with Spring Boot v1.5.0.RELEASE, Spring v4.3.6.RELEASE
+2017-10-30 17:07:46,796 INFO (SpringApplication.java:637)- No active profile set, falling back to default profiles: default
+2017-10-30 17:07:48,889 INFO (StartupInfoLogger.java:57)- Started Example in 2.262 seconds (JVM running for 2.92)
+2017-10-30 17:08:38,300 INFO (StartupInfoLogger.java:48)- Starting Example on hanhaishao-PC with PID 9308 (D:\maventest\target\classes started by hanhaishao in D:\maventest)
+2017-10-30 17:08:38,300 DEBUG (StartupInfoLogger.java:51)- Running with Spring Boot v1.5.0.RELEASE, Spring v4.3.6.RELEASE
+2017-10-30 17:08:38,301 INFO (SpringApplication.java:637)- No active profile set, falling back to default profiles: default
+2017-10-30 17:08:40,392 INFO (StartupInfoLogger.java:57)- Started Example in 2.5 seconds (JVM running for 3.122)
+2017-10-30 17:22:41,086 INFO (StartupInfoLogger.java:48)- Starting Example on hanhaishao-PC with PID 8200 (D:\maventest\target\classes started by hanhaishao in D:\maventest)
+2017-10-30 17:22:41,091 DEBUG (StartupInfoLogger.java:51)- Running with Spring Boot v1.5.0.RELEASE, Spring v4.3.6.RELEASE
+2017-10-30 17:22:41,092 INFO (SpringApplication.java:637)- No active profile set, falling back to default profiles: default
+2017-10-30 17:22:43,249 INFO (StartupInfoLogger.java:57)- Started Example in 2.417 seconds (JVM running for 3.205)
+2017-10-30 17:23:50,788 INFO (StartupInfoLogger.java:48)- Starting Example on hanhaishao-PC with PID 9264 (D:\maventest\target\classes started by hanhaishao in D:\maventest)
+2017-10-30 17:23:50,860 DEBUG (StartupInfoLogger.java:51)- Running with Spring Boot v1.5.0.RELEASE, Spring v4.3.6.RELEASE
+2017-10-30 17:23:50,861 INFO (SpringApplication.java:637)- No active profile set, falling back to default profiles: default
+2017-10-30 17:23:53,035 INFO (StartupInfoLogger.java:57)- Started Example in 2.421 seconds (JVM running for 3.091)
+2017-10-30 17:32:12,858 INFO (StartupInfoLogger.java:48)- Starting Example on hanhaishao-PC with PID 2348 (D:\maventest\target\classes started by hanhaishao in D:\maventest)
+2017-10-30 17:32:12,860 DEBUG (StartupInfoLogger.java:51)- Running with Spring Boot v1.5.0.RELEASE, Spring v4.3.6.RELEASE
+2017-10-30 17:32:12,861 INFO (SpringApplication.java:637)- No active profile set, falling back to default profiles: default
+2017-10-30 17:32:15,057 INFO (StartupInfoLogger.java:57)- Started Example in 2.476 seconds (JVM running for 3.132)
